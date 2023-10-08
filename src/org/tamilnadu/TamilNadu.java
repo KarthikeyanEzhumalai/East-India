@@ -9,6 +9,12 @@ public class TamilNadu extends Kerala {
 	}
 	private void tnpopulation() {
 		System.out.println("\nTN Population: 10 Crores");
+	}
+		
+	public static void main(String[] args) {
+		
+		TamilNadu tn = new TamilNadu();
+	
 		
 	}
 
