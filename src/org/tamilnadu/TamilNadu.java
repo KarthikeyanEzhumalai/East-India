@@ -7,5 +7,10 @@ public class TamilNadu extends Kerala {
 		System.out.println("TamilLanguage");
 		
 	}
+	public static void main(String[] args) {
+		
+		TamilNadu tn = new TamilNadu();
+		
+	}
 
 }
