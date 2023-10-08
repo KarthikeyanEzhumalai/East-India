@@ -18,6 +18,10 @@ public class TamilNadu extends Kerala {
 	public static void main(String[] args) {
 		
 		TamilNadu tn = new TamilNadu();
+		tn.tamilLanguage();
+		tn.tnpopulation();
+		System.out.println(tn.a);
+		System.out.println(tn.b);
 	
 		
 	}
